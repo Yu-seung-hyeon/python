@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="euc-kr"?> 
+<result>  
+<err_cd>013</err_cd>  
+<err_msg>샘플 인증키</err_msg>  
+<total_count>0</total_count>  
+<max_page_no>null</max_page_no>  
+<now_page_no>null</now_page_no>  
+</result>  
+
